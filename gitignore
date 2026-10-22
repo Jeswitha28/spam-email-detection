@@ -1,0 +1,5 @@
+spam.csv
+*.joblib
+__pycache__/
+.venv/
+*.pyc
